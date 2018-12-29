@@ -6,4 +6,4 @@ I didn't want to flood this README with an avalanche of text, so I decided to br
 Here's to a successful run! 🤘
 
 # Logs ☀️
-[Day 1–10](https://github.com/galacemiguel/100DaysOfCode/wiki/Day-1%E2%80%9310)
+[Day 1 to 10](https://github.com/galacemiguel/100DaysOfCode/wiki/Day-1%E2%80%9310)

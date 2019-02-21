@@ -9,3 +9,5 @@ Here's to a successful run! 🤘
 🌅 [Day 1 to 10](https://github.com/galacemiguel/100DaysOfCode/wiki/Day-1%E2%80%9310)
 
 🤼‍ [Day 11 to 20](https://github.com/galacemiguel/100DaysOfCode/wiki/Day-11-to-Day-20)
+
+🐎 [Day 21 to 30](https://github.com/galacemiguel/100DaysOfCode/wiki/Day-21-to-Day-30)

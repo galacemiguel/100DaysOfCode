@@ -11,3 +11,7 @@ Here's to a successful run! 🤘
 🤼‍ [Day 11 to 20](https://github.com/galacemiguel/100DaysOfCode/wiki/Day-11-to-Day-20)
 
 🐎 [Day 21 to 30](https://github.com/galacemiguel/100DaysOfCode/wiki/Day-21-to-Day-30)
+
+🏃‍♂️ [Day 31 to 40](https://github.com/galacemiguel/100DaysOfCode/wiki/Day-31-to-40)
+
+💪 [Day 41 to 50](https://github.com/galacemiguel/100DaysOfCode/wiki/Day-41-to-50)
